@@ -1,0 +1,6 @@
+{
+  "require": {
+    "opis/closure": "^3.5",
+    "guzzlehttp/guzzle": "^7.0"
+  }
+}
