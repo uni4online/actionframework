@@ -1,6 +1,6 @@
 # Action Framework
 
-A framework to subscribe and publish events in a PHP application.
+A framework that makes it easy to publish and subscribe to events in a PHP application.
 
 ## Dependencies
 

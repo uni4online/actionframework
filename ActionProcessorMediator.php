@@ -52,7 +52,7 @@ class ActionProcessorMediator
                 $includePath = $directory_path . DIRECTORY_SEPARATOR . $fileName;
 
                 //include file
-                include ($includePath);
+                include_once ($includePath);
             }
         }
 
